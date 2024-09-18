@@ -16,6 +16,9 @@ console.log("Hey there! I am JS");
 //Window objects available nahi hai
 
 
-const math=require("./math")//require ka use tab karte hai jab ham code kisi aur file me likha ho aur use kisi aur file se call karna ho
+const {add,sub}=require("./math")//require ka use tab karte hai jab ham code kisi aur file me likha ho aur use kisi aur file se call karna ho
 
-console.log(math(4,6));
+//Destructing use kar sakte hai jab ek se adhik function ko import karna ho
+
+console.log(add(4,6));
+console.log(sub(4,6));
