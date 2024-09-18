@@ -14,3 +14,8 @@ console.log("Hey there! I am JS");
 // jo bhi dependencies ham install karnge ya jab bhi ham isko publish karenge aur run karenge to sarra package.json file me hoga 
 
 //Window objects available nahi hai
+
+
+const math=require("./math")
+
+console.log(math(4,6));
