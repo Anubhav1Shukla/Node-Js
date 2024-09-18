@@ -16,6 +16,6 @@ console.log("Hey there! I am JS");
 //Window objects available nahi hai
 
 
-const math=require("./math")
+const math=require("./math")//require ka use tab karte hai jab ham code kisi aur file me likha ho aur use kisi aur file se call karna ho
 
 console.log(math(4,6));

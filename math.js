@@ -4,4 +4,4 @@ function add(a,b){
     return a+b;
 }
 
-module.exports=add;
+module.exports=add; //exports me us function ko pass kiya gya jis file ko dusre file me call karte hai 
