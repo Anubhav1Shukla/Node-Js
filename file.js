@@ -1,9 +1,9 @@
 const fs=require('fs');
 
-//sync
+//sync... Blocking.....
 // fs.writeFile('./test.txt','Hey Anubhav');
 
-//Async
+//Async...  Non-Blocking....
 // fs.writeFile("./test.txt","Hello World Async",(err)=>{});
 
 //Sync:-Ye return karta hai 
