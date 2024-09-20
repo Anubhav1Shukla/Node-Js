@@ -81,3 +81,8 @@
 1726844058137: /search?search_query=Programming%20videos New Req Received
 1726844073507: /search?search_query=Programming%20videos New Req Received
 1726844082478: /search?search_query=Programming%20videos New Req Received
+1726845879647: GET / New Req Received
+1726845893460: GET / New Req Received
+1726846270729: GET /signup New Req Received
+1726846282233: GET /signup New Req Received
+1726846306360: GET /signup New Req Received
