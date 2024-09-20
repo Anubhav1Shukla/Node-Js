@@ -15,3 +15,5 @@
 1726675598135: /favicon.ico New Req Received
 1726675609386: /aboutss New Req Received
 1726675609436: /favicon.ico New Req Received
+1726756688246: / New Req Received
+1726756688358: /favicon.ico New Req Received
