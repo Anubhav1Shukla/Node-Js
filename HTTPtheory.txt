@@ -1,0 +1,36 @@
+Get
+post
+put
+patch
+delete
+
+Get-->>
+When You want to get some data from the server
+
+
+url----------GetRequest-------->server
+jab bhi ham apne server ke upar http get request karte hai to vo server par jaakar only read karne ka kaam karta hai vo database se data laakar user ko de deta hai
+brwser hamesa get request karta hai
+
+
+post-->
+When you want to send and mutate(change) some data in server
+
+jab tum kisi website pe form submit karte ho ya kuch fill karte ho tab post request banata hai aur form ka data apne saath hi bhej deta hai 
+
+
+put-->
+
+
+jab ham file , image ya kuch picture   
+upload karte hai to ham data ko put karte hai 
+
+
+
+patch-->
+
+kisi data base me tumhara detail pahle se save hai aur fir us exsiting entry ko tum jab change karte ho to usr patch kahte hai
+
+delete-->
+
+jab ham deta base kuch delete karte hai tab use hota hai
