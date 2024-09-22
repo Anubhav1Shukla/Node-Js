@@ -34,3 +34,12 @@ kisi data base me tumhara detail pahle se save hai aur fir us exsiting entry ko 
 delete-->
 
 jab ham deta base kuch delete karte hai tab use hota hai
+
+
+
+^  -> Compatible with version 
+
+^4.18.2 -> isko mat change karna.Isko apne according chnage karna.is bhi apne according 
+
+
+~4.18.2 -> isko mat change karna.Isko mat chnage karna .is bhi apne according 
