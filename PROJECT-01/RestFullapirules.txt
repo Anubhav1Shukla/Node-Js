@@ -1,0 +1,44 @@
+Restful api rules:--
+1.Server And client Architechture
+
+
+                REQ
+SERVER <-------------------- CLIENT
+       ---------------------> 
+                RESPONSE
+                    |
+                    |
+                    |
+                  ):TEXT ,IMAGE HTML DOCUMENT
+                     JSON ANYTHING  
+
+GET|BLOGS------>HTML--->RESP
+                  |
+                  |
+                  |
+                  ): SSR(SERVER SIDE RENDERING)
+
+
+
+EX-----> JAISE KISI CLIENT NE SERVER PE DATA KE LIYE REQ KIYA USE DATA MAINE AS XML(OLD TECHNOLOGY) YA AS JSON(NEW TECHNOLOGY)(KEY VALUE PAIR) FORM ME BHEJ DIYA AB CLIENT KE PASS KOI AISE APPLICATION YA KOI CPU SE DATA KO APNE FORM ME CHANGE KAR DIYA AB CLIENT IS DATA KO READ KAR LEGA
+
+
+
+2.always respect all http methods
+
+
+GET , POST , PUT , DELETE , PATCH
+
+
+jo methods jis task ko karne ke liye bana hai vo 
+usi se karaye http me thats a good practice.
+
+html rendering is fast 
+ssr is fast
+csr(client side rendering slow).
+
+
+
+
+
+HAPPY HACKING!..............
