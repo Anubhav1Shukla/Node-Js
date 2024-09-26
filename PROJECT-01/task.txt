@@ -1,0 +1,21 @@
+REST API -JSON
+
+Get /users -List all users
+
+Get /users/1 - Get the user with ID 1
+
+
+Get/users/2 - get the user with ID 2
+
+
+DYANAMIC PATH PARAMETERS
+
+GET/API/USERS/:ID
+:ID--->VARIABLE|DYANAMIC
+
+Post /users - Create new user
+
+Patch /user/1 -Edit the user with ID 1
+
+
+Delete /users/1 -Delete the User with ID 1
