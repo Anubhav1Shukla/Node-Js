@@ -19,3 +19,14 @@ Patch /user/1 -Edit the user with ID 1
 
 
 Delete /users/1 -Delete the User with ID 1
+
+
+
+//POSTMAN:----->Better Tool For API testing.
+
+GET And POST Completed
+
+
+Delete And Patch Practice tommorrow
+
+nodemon file name --->> this is used for if any changes occur in your file you have not to close and start server again and again
