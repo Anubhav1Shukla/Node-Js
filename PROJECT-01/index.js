@@ -31,6 +31,11 @@ app.get('/users',(req,res)=>{
 
 
 app.get('/api/users',(req,res)=>{
+    res.setHeader("X-MyName","Anubhav"); 
+    // Custom Header :-  Always add X in custom header
+    // console.log(req.headers);
+
+    // https://flaviocopes.com/http-request-headers/
     return res.json(users);
 })
 
