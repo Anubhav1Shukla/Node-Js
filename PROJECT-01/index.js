@@ -8,8 +8,13 @@ const PORT=8000;
 
 //Middleware-Plugin
 
-app.use(express.urlencoded({extended:false}));
+app.use(express.urlencoded({extended:false}))
 
+app.use((req,res,next)=>{
+    console.log("hello From Middleware 1");
+    // return res.json({msg:"Hello from middleware 1"});
+    next();
+})
 
 
 app.get('/users',(req,res)=>{
