@@ -1,0 +1,30 @@
+It is databse
+
+No sql Document based databse
+
+strong support for aggregation pipes
+
+
+
+works on BSON format
+
+
+
+Best for Node Applications
+
+
+MongoDB Architecture
+
+
+Collection - "users"
+collection ke andar document hota hai 
+
+
+Commonds -- >
+mongosh -- > to start mongo shell
+>show dbs
+>use <db_name>
+>show collections
+>db.coll.find()
+>db.coll.insert()
+

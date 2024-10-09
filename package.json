@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node hello.js"
+    "start": "node hello.js"
   },
   "author": "Anubhav Shukla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.7.0"
+  }
 }
