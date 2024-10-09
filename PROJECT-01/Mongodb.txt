@@ -28,3 +28,12 @@ mongosh -- > to start mongo shell
 >db.coll.find()
 >db.coll.insert()
 
+
+
+Schema-->Define the structure 
+eg --> name|id|age|gender
+
+schema -->model
+
+
+using model we do crud operations
