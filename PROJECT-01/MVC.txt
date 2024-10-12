@@ -1,0 +1,8 @@
+MVC --> Model View Controller
+
+controller manupulate the Model
+model update the view 
+
+
+
+//jab bhi ham koi bada project banate hai to usme bahut saare user types hote unke liye model view controler ka use kiya jata hai 
