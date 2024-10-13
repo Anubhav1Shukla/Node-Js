@@ -1,0 +1,13 @@
+Design a URl Shortner service that takes in a valid URl and Returns a shorted URl,Redirecting the user to he previusly provided URl
+
+Also keep track of total visits/clicks on the URl
+
+
+Routes 
+
+
+POST/URL-->Genrates a new short URl and returns the shortened URl in the format exapmle.com/random-id
+
+GET/:id-Redirects the user to the original URl
+
+GET/URL/analytics/:id-Returns the clicks for provided short id
